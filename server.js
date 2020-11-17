@@ -9,9 +9,9 @@ const matrizAdj = new Array(
 )
 
 const listaAdj = new Array(
-  [2, 3],
-  [1, 3],
-  [1, 2]
+  [1, 2],
+  [0, 2],
+  [0, 1]
 )
 
 console.log()
